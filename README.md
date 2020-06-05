@@ -3,7 +3,7 @@
 
 # Loganbot
 
-A modular Telegram bot running on python3 with an sqlalchemy database, with some extra fun.
+A modular Telegram bot running on python3 with an sqlalchemy database, with some extra fun KEK .
 
 
 
